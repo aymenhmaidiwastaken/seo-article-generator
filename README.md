@@ -101,7 +101,7 @@ Built-in exporter converts articles to JavaScript blog post objects with HTML co
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/seo-article-generator.git
+git clone https://github.com/aymenhmaidiwastaken/seo-article-generator.git
 cd seo-article-generator
 
 # Install dependencies
